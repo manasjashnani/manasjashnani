@@ -25,6 +25,12 @@
     The autoencoder's representations are used in a recommendation system developed using Faiss and HDBSCAN clustering.</p>
 </div>
 
+<div>
+    <h5><a href="https://github.com/mkash96/SpectroRec" target="_blank">Content based Song recommendation</a></h5>
+    <p>Song recommendation system based on Spectrograms generated from song mp3s. Core - CNN/CRNN based model to generate vectors for spectrograms
+        which are then used for similarity search.</p>
+</div>
+
 <hr>
 
 <!-- Completed Section -->
