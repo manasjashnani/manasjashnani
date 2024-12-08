@@ -19,6 +19,11 @@
       The AgenticAI system will be trained with PPO using the MediQA dataset. I use onnx for optimizations for the AgenticAI and gym for the environment & agent. MLFlow is use for experiment tracking.</p>
 </div>
 
+<hr>
+
+<!-- Completed Section -->
+<h4>Completed</h4>
+
 <div>
     <h5><a href="https://github.com/manasjashnani/lyrics-based-song-recommendation" target="_blank">Lyrics based Song recommendation</a></h5>
     <p>This system uses a combination of LDA topic model vectors and MPNet embeddings combined using autoencoders. 
@@ -31,18 +36,14 @@
         which are then used for similarity search.</p>
 </div>
 
-<hr>
-
-<!-- Completed Section -->
-<h4>Completed</h4>
-<div>
-    <h5><a href="https://github.com/manasjashnani/crypto-price-prediction" target="_blank">Crypto Price Prediction using LSTM</a></h5>
-    <p>This is a LSTM model that predicts the price of a crypto currency using the past 2 days of OHLCV data.</p>
-</div>
-
 <div>
     <h5><a href="https://github.com/manasjashnani/gnn-multiclass-classification-and-explainability" target="_blank">GNN Multiclass Classification and Explainability</a></h5>
     <p>This is a multiclass classification GNN model for the Pubmed dataset and explains the prediction using GNNExplainer.</p>
+</div>
+
+<div>
+    <h5><a href="https://github.com/manasjashnani/crypto-price-prediction" target="_blank">Crypto Price Prediction using LSTM</a></h5>
+    <p>This is a LSTM model that predicts the price of a crypto currency using the past 2 days of OHLCV data.</p>
 </div>
 
 <div>
